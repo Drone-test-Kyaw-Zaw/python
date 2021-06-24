@@ -12,5 +12,5 @@ steps:
 
 trigger:
   repo:
-    include:
+    exclude:
     - Drone-test-Kyaw-Zaw/python
