@@ -11,6 +11,6 @@ steps:
       - flake8
 trigger:
   repo:
-    exclude:
+    include:
     - Drone-test-Kyaw-Zaw/python
     
